@@ -121,8 +121,6 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
-	<sonar.organization>webgoat-test-example</sonar.organization>
-	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <!-- This build number will be ubdated by Travis-CI -->
         <build.number>build</build.number>
