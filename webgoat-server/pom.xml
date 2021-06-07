@@ -200,7 +200,7 @@
                     <execution>
                         <phase>test-compile</phase>
                         <goals>
-                            <goal>jar</goal>
+                            <goal>test-jar-1</goal>
                         </goals>
                         <configuration>
                             <classifier>internal</classifier>
